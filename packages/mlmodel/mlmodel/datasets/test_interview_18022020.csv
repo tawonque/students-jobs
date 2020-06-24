@@ -1,0 +1,446 @@
+,Role ,Part of chain?,Repeats?,Include Repeats From Other Business,Student Level ,Stint Count Min ,Stint Count Max,Screening Badge?,Screening Grade Min ,Average Rating Minimum ,Include new students?,Runner Count ,Bar Back Count ,KP Count ,Waiter / Waitress Count ,Runner 4/5* Count ,Bar Back 4/5* Count,KP 4/5* Count,Waiter / Waitress 4/5* Count,Business
+0,KP,No,Once in a while,,All Levels,1,20.0,,3.0,4.0,Yes if busy,,,,,,,,,0
+1,Bar Back,No,Most of the time,,All Levels,2,,,3.0,4.5,No,,,,,,2.0,,,1
+2,Host/Hostess,No,Most of the time,,All Levels,2,,[Reiss],4.25,4.5,No,,,,,,,,,1
+3,KP,No,Most of the time,,All Levels,2,,,3.0,4.5,No,,,,,,,2.0,,2
+4,Runner,No,Most of the time,,All Levels,2,,,3.0,4.5,No,,,,,2.0,,,2.0,2
+5,Waiter / Waitress,No,Once in a while,,All Levels,1,20.0,,3.0,4.0,No,,,,,1.0,,,1.0,3
+6,KP,Yes,Once in a while,,All Levels,1,,,3.0,4.0,Yes if busy,,,,,,,1.0,,4
+7,KP,Yes,Once in a while,,All Levels,1,,,3.0,4.0,Yes if busy,,,,,,,1.0,,5
+8,Customer Service,Yes,Most of the time,Chipotle/Chilango CS,Potentials & L3 & 4 & 5,1,,[Chipotle or Reiss],4.25,4.25,No,,,,,,,,,5
+9,KP,Yes,Once in a while,,All Levels,1,,,3.0,4.0,Yes if busy,,,,,,,1.0,,6
+10,Cleaning,Yes,Once in a while,,All Levels,1,,,3.0,4.0,Yes if busy,,,,,,,1.0,,6
+11,Customer Service,Yes,Most of the time,Chipotle/Chilango CS,Potentials & L3 & 4 & 5,1,,[Chipotle and Reiss],4.25,4.25,No,,,,,,,,,6
+12,KP,Yes,Once in a while,,All Levels,1,,,3.0,4.0,Yes if busy,,,,,,,1.0,,7
+13,Cleaning,Yes,Once in a while,,All Levels,1,,,3.0,4.0,Yes if busy,,,,,,,1.0,,7
+14,Customer Service,Yes,Most of the time,Chipotle/Chilango CS,Potentials & L3 & 4 & 5,1,,[Chipotle and Reiss],4.25,4.25,No,,,,,,,,,7
+15,KP,No,Never,,All Levels,1,20.0,,3.0,4.0,Yes if busy,,,2.0,,,,1.0,,8
+16,Waiter / Waitress,No,Once in a while,,All Levels,1,20.0,,3.0,4.0,No,,,,,1.0,,,1.0,8
+17,KP,Yes,Once in a while,,Level 1 2 Potentials,0,5.0,,3.0,3.5,Yes,,,,,,,,,9
+18,Cloakroom,Yes,Once in a while,,Potentials & Level 3,0,5.0,,4.25,4.0,Yes,,,,,,,,,9
+19,Waiter / Waitress,Yes,Once in a while,,Potentials,0,5.0,,3.0,4.0,Yes,,,,,,,,,9
+20,Bar Back,Yes,Once in a while,,Level 1 2 Potentials,0,5.0,,3.0,4.0,Yes,,,,,,,,,9
+21,Runner,Yes,Once in a while,,Level 1 2 Potentials,0,5.0,,3.0,4.0,Yes,,,,,,,,,9
+22,Waiter / Waitress,Yes,Always,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,2.0,,,2.0,10
+23,Bar Back,Yes,Always,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,,2.0,,,10
+24,Runner,Yes,Always,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,2.0,,,2.0,11
+25,Runner,Yes,Always,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,2.0,,,2.0,12
+26,Waiter / Waitress,Yes,Always,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,2.0,,,2.0,13
+27,Cloakroom,Yes,Always,Reiss if needed,Potentials & L3 & 4 & 5,3,,[Reiss],4.25,4.25,No,,,,,,,,,14
+28,Cloakroom,Yes,Always,Reiss if needed,Potentials & L3 & 4 & 5,3,,[Reiss],4.25,4.25,No,,,,,,,,,15
+29,Waiter / Waitress,Yes,Always,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,2.0,,,2.0,15
+30,Runner,Yes,Always,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,2.0,,,2.0,15
+31,Runner,Yes,Always,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,2.0,,,2.0,16
+32,Bar Back,Yes,Always,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,,2.0,,,16
+33,Other/Steward/Customer Service,No,Once in a while,,Potentials & Level 3,1,15.0,[Chipotle and Reiss],4.25,4.0,Yes,,,,,,,,,17
+34,Bar Back,No,Once in a while,,Level 1 2 Potentials,1,15.0,,3.0,3.0,Yes,,,,,,,,,17
+35,Host/Hostess,Yes,Always,,Potentials & L3 & 4 & 5,3,,[Reiss],4.25,4.25,No,,,,,,,,,18
+36,Waiter / Waitress,Yes,Always,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,2.0,,,2.0,18
+37,Runner,No,Once in a while,,All Levels,1,20.0,,3.0,4.0,No,,,,,1.0,,,1.0,19
+38,Bar Back,No,Once in a while,,All Levels,1,20.0,,3.0,4.0,No,,,,,1.0,,,1.0,19
+39,Runner,No,Once in a while,,All Levels,1,20.0,,3.0,4.0,No,,,,,1.0,,,1.0,20
+40,Waiter / Waitress,No,Once in a while,,All Levels,1,20.0,,3.0,4.0,No,,,,,1.0,,,1.0,20
+41,KP,No,Never,,All Levels,1,20.0,,3.0,4.0,Yes if busy,,,,,,,1.0,,20
+42,Bar Back,Yes,Try repeats first,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,,2.0,,,21
+43,Runner,Yes,Always,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,2.0,,,,21
+44,Bar Back,Yes,Try repeats first,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,,2.0,,,22
+45,KP,Yes,Once in a while,,Potentials & L3 & 4 & 5,2,,,3.0,4.0,No,,,,,,,2.0,,22
+46,Waiter / Waitress,Yes,Once in a while,,All Levels,2,,,3.0,4.25,No,,,,,1.0,,,1.0,23
+47,Bar Back,Yes,Once in a while,,All Levels,2,,,3.0,4.25,No,,,,,,1.0,,,23
+48,KP,Yes,Once in a while,,All Levels,1,,,3.0,4.0,No,,,,,,,1.0,,23
+49,Bar Back,Yes,Once in a while,,All Levels,2,,,3.0,4.25,No,,,,,,1.0,,,24
+50,Runner,No,Once in a while,,All Levels,1,20.0,,3.0,4.0,Yes if busy,2.0,,,2.0,1.0,,,1.0,25
+51,KP,No,Once in a while,,All Levels,1,20.0,,3.0,4.0,Yes if busy,,,2.0,,,,1.0,,25
+52,KP,No,Once in a while,,All Levels,1,15.0,,3.0,4.0,Yes if busy,,,,,,,1.0,,26
+53,Runner,No,Most of the time,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,2.0,,,2.0,27
+54,Bar Back,No,Most of the time,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,,2.0,,,27
+55,KP,No,Once in a while,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,,,1.0,,27
+56,Cloakroom,Yes,Once in a while,,Potentials & L3 & 4 & 5,3,,[Reiss],4.25,4.25,No,,,,,,,,,28
+57,Waiter / Waitress,Yes,Always,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,2.0,,,2.0,28
+58,Bar Back,Yes,Most of the time,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,,1.0,,,29
+59,Cloakroom,Yes,Once in a while,,Potentials & L3 & 4 & 5,3,,[Reiss],4.25,4.25,No,,,,,,,,,30
+60,Bar Back,Yes,Most of the time,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,,2.0,,,30
+61,Waiter / Waitress,Yes,Most of the time,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,2.0,,,2.0,30
+62,Runner,No,Most of the time,,All Levels,1,20.0,,3.0,4.0,Yes if busy,2.0,,,2.0,1.0,,,1.0,31
+63,KP,No,Never,,All Levels,1,20.0,,3.0,4.0,Yes if busy,,,2.0,,,,1.0,,31
+64,Pantry,Yes,Always,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,2.0,2.0,2.0,2.0,32
+65,Runner,Yes,Try repeats first,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,2.0,,,2.0,32
+66,Bar Back,Yes,Try repeats first,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,,2.0,,,32
+67,Host/Hostess,Yes,Always,,Potentials & L3 & 4 & 5,2,,[Reiss],4.25,4.25,No,,,,,,,,,32
+68,Bar Back,Yes,Try repeats first,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,,2.0,,,33
+69,Runner,Yes,Try repeats first,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,2.0,,,2.0,33
+70,Sampling/Leafleting,Yes,Once in a while,,Potentials & Level 3,2,,[Chipotle or Reiss],4.5,4.25,Yes,,,,,,,,,33
+71,Pantry,Yes,Always,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,2.0,2.0,2.0,2.0,33
+72,Host/Hostess,Yes,Always,,Potentials & L3 & 4 & 5,2,,[Reiss],4.25,4.25,No,,,,,,,,,33
+73,Sampling,Yes,Once in a while,,Potentials & Level 3,2,,[Chipotle or Reiss],4.5,4.25,Yes if busy,,,,,,,,,34
+74,Waiter / Waitress,Yes,Try repeats first,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,2.0,,,2.0,34
+75,Runner,Yes,Try repeats first,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,2.0,,,2.0,34
+76,Pantry,Yes,Always,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,2.0,2.0,,2.0,35
+77,Runner,Yes,Try repeats first,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,2.0,,,2.0,35
+78,Bar Back,Yes,Try repeats first,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,,2.0,,,36
+79,Runner,Yes,Try repeats first,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,2.0,,,2.0,36
+80,Runner,Yes,Try repeats first,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,2.0,,,2.0,37
+81,KP,Yes,Once in a while,,Potentials & L3 & 4 & 5,2,,[Chipotle or Reiss],3.0,4.25,No,,,,,,,2.0,,37
+82,Leafleting,Yes,Once in a while,,Potentials & Level 3,2,,,4.5,4.25,Yes if busy,,,,,,,,,37
+83,Pantry,Yes,Always,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,2.0,2.0,2.0,2.0,38
+84,Waiter / Waitress,Yes,Try repeats first,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,2.0,,,2.0,38
+85,Runner,Yes,Try repeats first,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,2.0,,,2.0,38
+86,Bar Back,Yes,Try repeats first,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,,2.0,,,38
+87,Runner,Yes,Try repeats first,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,2.0,,,2.0,39
+88,Pantry,Yes,Always,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,2.0,2.0,2.0,2.0,39
+89,Bar Back,Yes,Try repeats first,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,,2.0,,,39
+90,Leafleting,Yes,Once in a while,,Potentials & Level 3,2,,[Chipotle or Reiss],4.5,4.25,Yes if busy,,,,,,,,,40
+91,Runner,Yes,Try repeats first,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,2.0,,,2.0,41
+92,Leafleting,Yes,Once in a while,,Potentials & Level 3,2,,[Chipotle or Reiss],4.5,4.25,Yes if busy,,,,,,,,,42
+93,Runner,Yes,Try repeats first,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,2.0,,,2.0,42
+94,Pantry,Yes,Always,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,2.0,2.0,2.0,2.0,43
+95,Waiter / Waitress,Yes,Try repeats first,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,2.0,,,2.0,43
+96,KP,Yes,Once in a while,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,,,2.0,,43
+97,Bar Back,Yes,Try repeats first,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,,2.0,,,44
+98,Pantry,Yes,Always,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,2.0,2.0,2.0,2.0,44
+99,Runner,Yes,Try repeats first,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,2.0,,,2.0,44
+100,Waiter / Waitress,No,Most of the time,,All Levels,1,20.0,,3.0,4.0,Yes if busy,2.0,,,2.0,1.0,,,1.0,45
+101,KP,Yes,Once in a while,,Potentials & L3 & 4 & 5,1,,,3.0,4.25,No,,,,,,,1.0,,46
+102,Bar Back,Yes,Once in a while,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,,1.0,,,46
+103,Runner,No,Most of the time,,All Levels,1,20.0,,3.0,4.0,Yes if busy,2.0,,,2.0,1.0,,,1.0,47
+104,KP,No,Never,,All Levels,1,20.0,,3.0,4.0,Yes if busy,,,2.0,,,,1.0,,47
+105,Waiter / Waitress,No,Most of the time,,All Levels,1,20.0,,3.0,4.0,Yes if busy,2.0,,,2.0,1.0,,,1.0,48
+106,Cleaning,No,Never,,Level 1 2 Potentials,0,8.0,,3.0,4.0,Yes,,,,,,,,,49
+107,Leafleting,No,Never,,Potentials,0,8.0,,4.25,4.0,Yes,,,,,,,,,49
+108,KP,Yes,Try repeats first,,All Levels,2,,,4.25,4.0,Yes if busy,,,,,,,1.0,,50
+109,Cashier,Yes,Try repeats first,Chipotle (Customer Service),All Levels,3,,[Chipotle],4.5,4.5,No,,,,,,,,,51
+110,KP,Yes,Try repeats first,,All Levels,2,,,4.25,4.0,Yes if busy,,,,,,,1.0,,51
+111,Host/Hostess,Yes,Try repeats first,Chipotle (Customer Service),Potentials & L3 & 4 & 5,3,,[Chipotle],4.5,4.5,No,,,,,,,,,52
+112,KP,Yes,Try repeats first,,All Levels,2,,,4.25,4.25,No,,,,,,,1.0,,52
+113,Customer Service,Yes,Try repeats first,Chipotle (Customer Service),Potentials & L3 & 4 & 5,3,,[Chipotle],4.5,4.5,No,,,,,,,,,52
+114,KP,Yes,Try repeats first,,All Levels,2,,,4.25,4.0,Yes if busy,,,,,,,1.0,,53
+115,Cashier,Yes,Try repeats first,Chipotle (Customer Service),All Levels,3,,[Chipotle],4.5,4.5,No,,,,,,,,,53
+116,KP,Yes,Try repeats first,,All Levels,2,,,4.25,4.25,No,,,,,,,1.0,,54
+117,Cashier,Yes,Try repeats first,Chipotle (Customer Service),Potentials & L3 & 4 & 5,3,,[Chipotle],4.5,4.5,No,,,,,,,,,54
+118,Cleaning,Yes,Try repeats first,,All Levels,2,,,4.25,4.25,No,,,,,,,1.0,,54
+119,Customer Service,Yes,Try repeats first,Chipotle (Customer Service),Potentials & L3 & 4 & 5,3,,[Chipotle],4.5,4.5,No,,,,,,,,,54
+120,Host/Hostess,Yes,Try repeats first,Chipotle (Customer Service),Potentials & L3 & 4 & 5,3,,[Chipotle],4.5,4.5,No,,,,,,,,,55
+121,KP,Yes,Try repeats first,,All Levels,2,,,4.25,4.25,No,,,,,,,1.0,,55
+122,Cashier,Yes,Try repeats first,Chipotle (Customer Service),Potentials & L3 & 4 & 5,3,,[Chipotle],4.5,4.5,No,,,,,,,,,55
+123,Customer Service,Yes,Try repeats first,Chipotle (Customer Service),Potentials & L3 & 4 & 5,3,,[Chipotle],4.5,4.5,No,,,,,,,,,56
+124,KP,Yes,Try repeats first,,All Levels,2,,,4.25,4.25,No,,,,,,,1.0,,56
+125,Host/Hostess,Yes,Try repeats first,Chipotle (Customer Service),Potentials & L3 & 4 & 5,3,,[Chipotle],5.0,5.0,No,,,,,,,,,56
+126,Customer Service,Yes,Try repeats first,,Potentials & L3 & 4 & 5,3,,[Chipotle],4.5,4.5,No,,,,,,,,,57
+127,Cleaning,Yes,Most of the time,,All Levels,2,,,3.0,4.0,No,,,,,,,1.0,,57
+128,Customer Service,Yes,Try repeats first,,Potentials & L3 & 4 & 5,3,,[Chipotle],4.5,4.5,No,,,,,,,,,58
+129,Cleaning,Yes,Most of the time,,All Levels,2,,,3.0,4.0,No,,,,,,,1.0,,58
+130,Customer Service,Yes,Try repeats first,,Potentials & L3 & 4 & 5,3,,[Chipotle],4.5,4.5,No,,,,,,,,,59
+131,KP,Yes,Most of the time,,All Levels,2,,,3.0,4.0,No,,,,,,,1.0,,59
+132,Customer Service,Yes,Try repeats first,,Potentials & L3 & 4 & 5,3,,[Chipotle],4.5,4.5,No,,,,,,,,,60
+133,Cleaning,Yes,Most of the time,,All Levels,2,,,3.0,4.0,No,,,,,,,1.0,,60
+134,KP,Yes,Most of the time,,All Levels,2,,,3.0,4.0,No,,,,,,,1.0,,60
+135,KP,Yes,Most of the time,,All Levels,2,,,3.0,4.0,No,,,,,,,1.0,,61
+136,Customer Service,Yes,Try repeats first,,Potentials & L3 & 4 & 5,3,,[Chipotle],4.5,4.5,No,,,,,,,,,61
+137,Cleaning,Yes,Most of the time,,All Levels,2,,,3.0,4.0,No,,,,,,,1.0,,62
+138,KP,Yes,Most of the time,,All Levels,2,,,3.0,4.0,No,,,,,,,1.0,,62
+139,Customer Service,Yes,Try repeats first,,Potentials & L3 & 4 & 5,3,,[Chipotle],4.5,4.5,No,,,,,,,,,62
+140,Cleaning,Yes,Most of the time,,All Levels,2,,,3.0,4.0,No,,,,,,,1.0,,63
+141,KP,Yes,Most of the time,,All Levels,2,,,3.0,4.0,No,,,,,,,1.0,,63
+142,Customer Service,Yes,Try repeats first,,Potentials & L3 & 4 & 5,3,,[Chipotle],4.5,4.5,No,,,,,,,,,63
+143,Runner,Yes,Most of the time,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,1.0,,,1.0,64
+144,Waiter / Waitress,Yes,Most of the time,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,1.0,,,1.0,64
+145,Cloakroom,Yes,Once in a while,,Potentials & L3 & 4 & 5,2,,[Reiss],4.25,4.25,Yes if busy,,,,,,,,,64
+146,Runner,Yes,Most of the time,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,1.0,,,1.0,65
+147,Waiter / Waitress,Yes,Most of the time,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,1.0,,,1.0,65
+148,KP,Yes,Once in a while,,Potentials & L3 & 4 & 5,1,,,3.0,4.0,No,,,,,,,1.0,,65
+149,Door Person,Yes,Once in a while,,Potentials & L3 & 4 & 5,1,,,4.25,4.0,Yes if busy,,,,,,,,,65
+150,Host/Hostess,Yes,Once in a while,,Potentials & L3 & 4 & 5,1,,[Reiss],4.25,4.25,Yes if busy,,,,,,,,,65
+151,Bar Back,Yes,Most of the time,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,,1.0,,,65
+152,Cleaning,No,Once in a while,,All Levels,0,10.0,,3.0,3.0,Yes,,,,,,,,,66
+153,Customer Service,No,Once in a while,,All Levels,0,10.0,,4.25,4.0,Yes,,,,,,,,,66
+154,Customer Service,No,Most of the time,"Chipotle, Chilango",All Levels,3,,[Chipotle],4.5,4.5,No,,,,,,,,,67
+155,Bar Back,No,Most of the time,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,,2.0,,,68
+156,Waiter / Waitress,Yes,Try repeats first,Young's,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,2.0,,,2.0,69
+157,Runner,Yes,Try repeats first,young's,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,2.0,,,2.0,69
+158,Bar Back,Yes,Try repeats first,young's,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,,2.0,,,69
+159,Waiter / Waitress,No,Once in a while,,All Levels,1,20.0,,3.0,4.0,Yes if busy,2.0,,,2.0,1.0,,,1.0,70
+160,KP,No,Never,,All Levels,1,20.0,,3.0,4.0,Yes if busy,,,2.0,,,,1.0,,70
+161,Runner,No,Most of the time,,All Levels,2,,,3.0,4.25,No,,,,,1.0,,,1.0,71
+162,Sampling,No,Most of the time,,All Levels,2,,[Chipotle or Reiss],4.25,4.25,No,,,,,,,,,72
+163,Bar Back,No,Once in a while,,All Levels,2,,,3.0,4.25,No,,,,,,1.0,,,73
+164,Waiter / Waitress,Yes,Once in a while,,All Levels,2,,,3.0,4.25,No,,,,,1.0,,,1.0,74
+165,Runner,Yes,Once in a while,,All Levels,2,,,3.0,4.25,No,,,,,1.0,,,1.0,74
+166,Waiter / Waitress,Yes,Most of the time,,All Levels,2,,,3.0,4.25,No,,,,,1.0,,,1.0,75
+167,Runner,Yes,Most of the time,,All Levels,2,,,3.0,4.25,No,,,,,1.0,,,1.0,75
+168,Sampling,No,Never,,Potentials & Level 3,1,10.0,,4.25,4.0,Yes if busy,,,,,,,,,76
+169,Cloakroom,No,Once in a while,,Potentials & L3 & 4 & 5,1,,[Reiss],4.25,4.25,No,,,,,,,,,77
+170,Waiter / Waitress,No,Once in a while,,All Levels,1,,,3.0,4.25,No,,,,,1.0,,,1.0,77
+171,KP,No,Once in a while,,All Levels,1,15.0,,3.0,4.25,Yes if busy,,,,,,,1.0,,77
+172,KP,No,Once in a while,,All Levels,1,15.0,,3.0,4.0,Yes if busy,,,1.0,,,,,,78
+173,Waiter / Waitress,No,Once in a while,,Potentials & Level 3,1,15.0,,3.0,4.0,Yes if busy,,,,,,,,,79
+174,KP,No,Never,,Level 1 2 Potentials,0,10.0,,3.0,4.0,Yes,,,,,,,,,79
+175,Bar Back,No,Once in a while,,Potentials & Level 3,1,10.0,,3.0,4.0,Yes if busy,,,,,,,,,79
+176,Bar Back,No,Once in a while,,All Levels,1,20.0,,3.0,4.0,Yes if busy,,2.0,,,,1.0,,,80
+177,Runner,No,Once in a while,,All Levels,1,20.0,,3.0,4.0,No,,,,,1.0,,,1.0,80
+178,Leafleting,No,Once in a while,,Potentials & Level 3,1,10.0,,4.25,4.0,Yes if busy,,,,,,,,,81
+179,Runner,Yes,Most of the time,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,1.0,,,1.0,82
+180,Waiter / Waitress,Yes,Most of the time,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,1.0,,,1.0,82
+181,KP,Yes,Once in a while,,Potentials & L3 & 4 & 5,1,,,3.0,4.0,No,,,,,,,1.0,,82
+182,Bar Back,Yes,Most of the time,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,,1.0,,,82
+183,Runner,Yes,Always,Young's,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,2.0,,,2.0,83
+184,KP,Yes,Most of the time,Young's,All Levels,2,,,3.0,4.25,No,,,,,,,1.0,,83
+185,KP,Yes,Once in a while,,All Levels,1,15.0,,3.0,4.25,Yes if busy,,,,,,,1.0,,84
+186,Cloakroom,No,Once in a while,,All Levels,1,,[Reiss],4.25,4.0,Yes if busy,,,,,,,,,85
+187,Runner,No,Once in a while,,All Levels,2,,,3.0,4.25,No,,,,,1.0,,,1.0,85
+188,Waiter / Waitress,No,Once in a while,,All Levels,2,,,3.0,4.25,No,,,,,1.0,,,1.0,85
+189,Bar Back,No,Once in a while,,All Levels,2,,,3.0,4.25,No,,,,,,1.0,,,85
+190,Bar Back,No,Once in a while,,All Levels,1,,,3.0,4.0,No,,,,,,1.0,,,86
+191,Customer Service,No,Once in a while,,All Levels,1,15.0,[Chipotle or Reiss],4.25,4.25,Yes if busy,,,,,,,,,87
+192,Cashier,No,Once in a while,,All Levels,1,15.0,[Chipotle or Reiss],4.25,4.25,Yes if busy,,,,,,,,,87
+193,Waiter / Waitress,No,Once in a while,,All Levels,1,15.0,,3.0,4.25,Yes if busy,1.0,,,1.0,,,,,87
+194,KP,Yes,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,88
+195,KP,Yes,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,89
+196,KP,Yes,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,90
+197,Bar Back,No,Always,,Potentials & L3 & 4 & 5,2,,,4.0,4.25,No,,,,,,1.0,,,91
+198,Bar Back,Yes,Always,Young's,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,,2.0,,,92
+199,KP,Yes,Most of the time,,All Levels,2,,,3.0,4.25,No,,,,,,,1.0,,92
+200,Bar Back,Yes,Try repeats first,Young's,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,,2.0,,,93
+201,Waiter / Waitress,Yes,Try repeats first,Young's,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,2.0,,,2.0,93
+202,Waiter / Waitress,No,Once in a while,,All Levels,1,15.0,,3.0,4.0,Yes if busy,1.0,,,1.0,,,,,94
+203,KP,No,Once in a while,,All Levels,1,15.0,,3.0,4.0,Yes if busy,,,1.0,,,,,,94
+204,Runner,No,Once in a while,,All Levels,1,10.0,,3.0,4.0,Yes if busy,1.0,,,1.0,,,,,95
+205,Bar Back,Yes,Once in a while,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,,2.0,,,96
+206,Cloakroom,Yes,Once in a while,,Potentials & L3 & 4 & 5,2,,[Reiss],4.25,4.25,No,,,,,,,,,96
+207,Waiter / Waitress,Yes,Once in a while,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,2.0,,,2.0,96
+208,Bar Back,No,Once in a while,,All Levels,1,15.0,,3.0,4.0,Yes if busy,,,,,,1.0,,,97
+209,Waiter / Waitress,No,Once in a while,,Potentials & Level 3,1,15.0,,3.0,4.0,Yes if busy,,,,,,,,,98
+210,KP,No,Never,,Level 1 2 Potentials,0,10.0,,3.0,4.0,Yes,,,,,,,,,98
+211,Bar Back,No,Once in a while,,Potentials & Level 3,1,10.0,,3.0,4.0,Yes if busy,,,,,,,,,98
+212,Bar Back,No,Never,,Level 1 2 Potentials,0,10.0,,3.0,3.0,Yes,,,,,,,,,99
+213,Runner,No,Never,,Level 1 2 Potentials,0,10.0,,3.0,3.0,Yes,,,,,,,,,99
+214,KP,No,Never,,All Levels,1,20.0,,3.0,4.0,Yes if busy,,,2.0,,,,1.0,,100
+215,Runner,No,Most of the time,,All Levels,1,20.0,,3.0,4.0,Yes if busy,2.0,,,2.0,1.0,,,1.0,100
+216,Bar Back,Yes,Most of the time,Urban Pubs,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,,2.0,,,101
+217,KP,Yes,Most of the time,,All Levels,2,,,3.0,4.25,No,,,,,,,1.0,,102
+218,Bar Back,Yes,Try repeats first,young's,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,,2.0,,,102
+219,Runner,Yes,Try repeats first,young's,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,2.0,,,2.0,102
+220,Leafleting,No,Most of the time,,All Levels,2,,[Chipotle or Reiss],4.25,4.25,No,,,,,,,,,103
+221,Customer Service,No,Once in a while,,All Levels,1,20.0,[Chipotle or Reiss],4.25,4.25,No,,,,,,,,,104
+222,Cleaning,No,Once in a while,,All Levels,1,10.0,,3.0,3.0,Yes if busy,,,1.0,,,,,,104
+223,Runner,No,Most of the time,,All Levels,1,,,3.0,4.0,No,,,,,1.0,,,1.0,105
+224,Waiter / Waitress,No,Most of the time,,All Levels,1,,,3.0,4.0,No,,,,,1.0,,,1.0,105
+225,KP,No,Never,,All Levels,1,20.0,,3.0,4.0,Yes if busy,,,,,,,1.0,,105
+226,Waiter / Waitress,No,Once in a while,,All Levels,1,,,3.0,4.25,No,,,,,1.0,,,1.0,106
+227,KP,No,Once in a while,,All Levels,1,15.0,,3.0,4.25,Yes if busy,,,,,,,1.0,,106
+228,Bar Back,No,Most of the time,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,,2.0,,,107
+229,Customer Service,No,Once in a while,,Potentials & L3 & L4,0,15.0,,4.25,4.0,Yes,,,,,,,,,108
+230,Runner,Yes,Most of the time,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,2.0,,,2.0,109
+231,Bar Back,Yes,Most of the time,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,,2.0,,,109
+232,KP,Yes,Once in a while,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,,,1.0,,109
+233,Cloakroom,Yes,Once in a while,,Potentials & L3 & 4 & 5,2,,[Reiss],4.25,4.25,No,,,,,,,,,109
+234,Bar Back,Yes,Always,young's,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,,2.0,,,110
+235,Runner,Yes,Always,young's,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,2.0,,,2.0,110
+236,Waiter / Waitress,Yes,Always,young's,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,2.0,,,2.0,110
+237,Bar Back,Yes,Always,EI,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,,2.0,,,111
+238,Waiter / Waitress,No,Once in a while,,All Levels,3,,,3.0,4.25,No,,,,,,,1.0,,112
+239,KP,No,Once in a while,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,2.0,,,2.0,112
+240,Runner,Yes,Most of the time,,All Levels,2,,,3.0,4.25,No,,,,,1.0,,,1.0,113
+241,KP,Yes,Once in a while,,All Levels,1,20.0,,3.0,4.0,No,,,2.0,,,,1.0,,113
+242,Runner,Yes,Most of the time,,All Levels,2,,,3.0,4.25,No,,,,,1.0,,,1.0,114
+243,KP,Yes,Once in a while,,All Levels,1,20.0,,3.0,4.0,No,,,2.0,,,,1.0,,114
+244,Waiter / Waitress,Yes,Most of the time,,All Levels,2,,,3.0,4.25,No,,,,,1.0,,,1.0,115
+245,KP,Yes,Once in a while,,All Levels,1,20.0,,3.0,4.0,No,,,2.0,,,,1.0,,115
+246,Host/Hostess,Yes,Once in a while,,Potentials & L3 & 4 & 5,2,,[Reiss],4.25,4.25,No,,,,,,,,,115
+247,Runner,Yes,Most of the time,,All Levels,2,,,3.0,4.25,No,,,,,1.0,,,1.0,116
+248,KP,No,Once in a while,,All Levels,2,,,3.0,4.25,No,,,,,,,1.0,,117
+249,Bar Back,No,Once in a while,,All Levels,2,,,3.0,4.25,No,,,,,,1.0,,,117
+250,Waiter / Waitress,No,Once in a while,,All Levels,2,,,3.0,4.25,No,,,,,1.0,,,1.0,117
+251,Bar Back,No,Once in a while,,All Levels,1,,,3.0,4.0,No,,,,,,1.0,,,118
+252,Runner,No,Once in a while,,All Levels,2,20.0,,3.0,4.25,No,,,,,1.0,,,1.0,119
+253,Customer Service,No,Once in a while,,All Levels,1,15.0,[Chipotle or Reiss],4.25,4.25,Yes if busy,,,,,,,,,120
+254,Bar Back,No,Once in a while,,Potentials & Level 3,1,10.0,,3.0,4.0,Yes if busy,,,,,,,,,120
+255,KP,No,Most of the time,,All Levels,3,,,3.0,4.5,No,,,,,,,2.0,,121
+256,Runner,No,Most of the time,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,2.0,,,2.0,122
+257,Waiter / Waitress,No,Most of the time,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,2.0,,,2.0,122
+258,Cloakroom,No,Once in a while,,Potentials & L3 & 4 & 5,2,,[Reiss],4.25,4.25,No,,,,,,,,,122
+259,Runner,No,Once in a while,,All Levels,2,,,3.0,4.25,No,,,,,1.0,,,1.0,123
+260,Cleaning,No,Once in a while,,All Levels,2,,,3.0,4.25,No,,,,,,,1.0,,123
+261,KP,No,Once in a while,,All Levels,2,,,3.0,4.25,No,,,,,,,1.0,,123
+262,Host/Hostess,No,Once in a while,,Potentials & Level 3,0,10.0,,4.25,4.25,Yes,,,,,,,,,124
+263,Leafleting,No,Most of the time,,Potentials & L3 & 4 & 5,3,,[Chipotle],4.5,4.25,No,,,,,,,,,125
+264,Waiter / Waitress,No,Most of the time,,All Levels,3,,,4.25,4.5,No,,,,,2.0,,,2.0,126
+265,Runner,No,Once in a while,,All Levels,1,20.0,,3.0,4.0,Yes if busy,2.0,,,2.0,1.0,,,1.0,127
+266,Cloakroom,No,Once in a while,,All Levels,0,10.0,[Reiss],4.25,4.25,Yes,,,,,,,,,128
+267,KP,No,Once in a while,,All Levels,0,10.0,,4.0,4.0,Yes,,,,,,,,,128
+268,Cloakroom,No,Once in a while,,All Levels,0,10.0,[Reiss],4.25,4.25,Yes,,,,,,,,,129
+269,KP,No,Once in a while,,All Levels,0,10.0,,4.0,4.0,Yes,,,,,,,,,129
+270,Runner,No,Once in a while,,All Levels,1,20.0,,3.0,4.0,Yes if busy,2.0,,,2.0,1.0,,,1.0,130
+271,KP,No,Never,,All Levels,1,20.0,,3.0,4.0,Yes if busy,,,2.0,,,,1.0,,130
+272,Runner,No,Once in a while,,All Levels,1,20.0,,3.0,4.0,Yes if busy,2.0,,,2.0,1.0,,,1.0,131
+273,KP,No,Never,,All Levels,1,20.0,,3.0,4.0,Yes if busy,,,2.0,,,,1.0,,131
+274,Stock,No,Once in a while,,Potentials & Level 3,1,10.0,,4.25,4.0,Yes if busy,,,,,,,,,132
+275,Runner,No,Most of the time,,All Levels,3,,,4.25,4.5,No,,,,,2.0,,,2.0,133
+276,Waiter / Waitress,Yes,Most of the time,,All Levels,1,,,3.0,4.25,No,,,,,1.0,,,1.0,134
+277,Runner,Yes,Most of the time,,All Levels,1,,,3.0,4.25,No,,,,,1.0,,,1.0,134
+278,KP,Yes,Never,,All Levels,1,20.0,,3.0,4.0,Yes if busy,,,2.0,,,,1.0,,134
+279,Runner,Yes,Most of the time,,All Levels,1,,,3.0,4.25,No,,,,,1.0,,,1.0,135
+280,KP,Yes,Never,,All Levels,1,20.0,,3.0,4.0,Yes if busy,,,2.0,,,,1.0,,135
+281,Host/Hostess,Yes,Once in a while,,Potentials & L3 & 4 & 5,1,20.0,[Reiss],4.25,4.25,Yes if busy,,,,,,,,,135
+282,Runner,Yes,Always,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,2.0,,,2.0,136
+283,Runner,No,Most of the time,,All Levels,1,,,3.0,4.0,No,,,,,1.0,,,1.0,137
+284,Waiter / Waitress,No,Most of the time,,All Levels,1,,,3.0,4.0,No,,,,,1.0,,,1.0,137
+285,Waiter / Waitress,No,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,138
+286,Runner,No,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,138
+287,Bar Back,No,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,138
+288,Cleaning,No,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,138
+289,KP,No,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,138
+290,Sampling,No,Once in a while,,Potentials & Level 3,0,10.0,,4.25,4.25,Yes,,,,,,,,,139
+291,KP,No,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,140
+292,Host/Hostess,No,Once in a while,,All Levels,0,10.0,,4.25,4.0,Yes,,,,,,,,,141
+293,Customer Service,Yes,Try repeats first,All other branches,Potentials & L3 & 4 & 5,3,,[Reiss],4.25,4.5,No,,,,,,,,,142
+294,Customer Service,Yes,Try repeats first,All other branches,Potentials & L3 & 4 & 5,3,,[Reiss],4.25,4.5,No,,,,,,,,,143
+295,Customer Service,Yes,Try repeats first,All other branches,Potentials & L3 & 4 & 5,3,,[Reiss],4.25,4.5,No,,,,,,,,,144
+296,Stock,Yes,Most of the time,All other branches and roles + Topshop,Potentials & L3 & 4 & 5,2,,[Reiss],4.0,4.25,No,,,,,,,,,145
+297,Customer Service,Yes,Try repeats first,All other branches,Potentials & L3 & 4 & 5,3,,[Reiss],4.25,4.5,No,,,,,,,,,145
+298,Customer Service,Yes,Try repeats first,All other branches,Potentials & L3 & 4 & 5,3,,[Reiss],4.25,4.5,No,,,,,,,,,146
+299,Customer Service,Yes,Try repeats first,All other branches,Potentials & L3 & 4 & 5,3,,[Reiss],4.25,4.5,No,,,,,,,,,147
+300,Stock,Yes,Most of the time,All other branches and roles + Topshop,Potentials & L3 & 4 & 5,2,,[Reiss],4.0,4.25,No,,,,,,,,,148
+301,Customer Service,Yes,Try repeats first,All other branches,Potentials & L3 & 4 & 5,3,,[Reiss],4.25,4.5,No,,,,,,,,,148
+302,Stock,Yes,Most of the time,All other branches and roles + Topshop,Potentials & L3 & 4 & 5,2,,[Reiss],4.0,4.25,No,,,,,,,,,149
+303,Customer Service,Yes,Try repeats first,All other branches,Potentials & L3 & 4 & 5,3,,[Reiss],4.25,4.5,No,,,,,,,,,149
+304,Customer Service,Yes,Once in a while,,Potentials & L3 & 4 & 5,1,,[Reiss],4.25,4.5,Yes if busy,,,,,,,,,150
+305,Customer Service,Yes,Try repeats first,All other branches,Potentials & L3 & 4 & 5,3,,[Reiss],4.25,4.5,No,,,,,,,,,151
+306,Customer Service,Yes,Try repeats first,All other branches,Potentials & L3 & 4 & 5,3,,[Reiss],4.25,4.5,No,,,,,,,,,152
+307,Customer Service,Yes,Try repeats first,All other branches,Potentials & L3 & 4 & 5,3,,[Reiss],4.25,4.5,No,,,,,,,,,153
+308,Stock,Yes,Most of the time,All other branches and roles + topshop,Potentials & L3 & 4 & 5,2,,[Reiss],4.0,4.25,No,,,,,,,,,154
+309,Customer Service,Yes,Try repeats first,All other branches,Potentials & L3 & 4 & 5,3,,[Reiss],4.25,4.5,No,,,,,,,,,154
+310,Customer Service,Yes,Try repeats first,All other branches,Potentials & L3 & 4 & 5,3,,[Reiss],4.25,4.5,No,,,,,,,,,155
+311,Other,No,Never,,Potentials,0,5.0,,4.25,4.0,Yes,,,,,,,,,156
+312,Stock,Yes,Always,,All Levels,0,,,4.0,4.0,Yes,,,,,,,,,157
+313,Cloakroom,Yes,Always,"Annabel's, Reiss",Potentials & L3 & 4 & 5,2,,[Reiss],4.25,4.25,No,,,,,,,,,158
+314,Runner,Yes,Always,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,2.0,,,2.0,158
+315,Bar Back,Yes,Always,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,,1.0,,,158
+316,Waiter / Waitress,No,Once in a while,,All Levels,1,20.0,,3.0,4.0,Yes if busy,2.0,,,2.0,1.0,,,1.0,159
+317,Bar Back,Yes,Try repeats first,EI,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,,2.0,,,160
+318,Runner,Yes,Most of the time,,All Levels,3,,,3.0,4.25,No,,,,,2.0,,,2.0,161
+319,Runner,No,Most of the time,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,2.0,,,2.0,162
+320,Runner,Yes,Always,young's,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,,2.0,,,163
+321,Bar Back,Yes,Always,young's,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,2.0,,,2.0,163
+322,Waiter / Waitress,No,Once in a while,,All Levels,1,,,3.0,4.25,No,,,,,1.0,,,1.0,164
+323,KP,No,Once in a while,,All Levels,1,15.0,,3.0,4.25,Yes if busy,,,,,,,1.0,,164
+324,Waiter / Waitress,No,Once in a while,,All Levels,1,20.0,,3.0,4.0,Yes if busy,2.0,,,2.0,1.0,,,1.0,165
+325,Cleaning,No,Never,,Level 1 2 Potentials,0,15.0,,3.0,3.5,Yes,,,,,,,,,165
+326,KP,No,Once in a while,,All Levels,1,15.0,,3.0,4.0,Yes if busy,,,,,,,1.0,,166
+327,Runner,No,Once in a while,,All Levels,1,20.0,,3.0,4.0,Yes if busy,2.0,,,2.0,1.0,,,1.0,166
+328,Waiter / Waitress,No,Always,,All Levels,1,,,3.0,4.25,Yes if busy,2.0,,,2.0,1.0,,,1.0,167
+329,Bar Back,No,Most of the time,,All Levels,1,,,3.0,4.25,Yes if busy,,,,,,1.0,,,167
+330,Host/Hostess,No,Most of the time,,All Levels,1,,,4.25,4.25,Yes if busy,,,,,,,,,167
+331,Bar Back,No,Most of the time,,All Levels,1,,,3.0,4.25,Yes if busy,,,,,,1.0,,,168
+332,KP,No,Once in a while,,All Levels,1,15.0,,3.0,4.25,Yes if busy,,,,,,,1.0,,168
+333,Stock,Yes,Try repeats first,"Reiss, Topshop",Potentials & L3 & 4 & 5,3,,[Reiss],4.25,4.5,No,,,,,,,,,169
+334,KP,No,Once in a while,,All Levels,1,,,3.0,4.0,No,,,,,,,1.0,,170
+335,Waiter / Waitress,Yes,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,171
+336,KP,Yes,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,171
+337,KP,Yes,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,172
+338,Runner,Yes,Always,Urban Pubs,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,2.0,,,2.0,173
+339,Bar Back,Yes,Always,Urban Pubs,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,,2.0,,,173
+340,Bar Back,Yes,Always,young's,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,,2.0,,,174
+341,Runner,Yes,Always,young's,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,2.0,,,2.0,174
+342,Runner,No,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,175
+343,KP,No,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,175
+344,Bar Back,No,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,175
+345,Waiter / Waitress,No,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,175
+346,Bar Back,Yes,Try repeats first,EI,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,,2.0,,,176
+347,KP,No,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,177
+348,Waiter / Waitress,No,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,177
+349,Bar Back,No,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,177
+350,Sweeper/Glass Collector,No,Never,,Level 1 2 Potentials,0,10.0,,3.0,3.0,Yes,,,,,,,,,178
+351,Bar Back,Yes,Always,Urban Pubs,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,,2.0,,,179
+352,Bar Back,Yes,Try repeats first,young's,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,,2.0,,,180
+353,Runner,Yes,Try repeats first,Young's,Level 4 & Level 5,3,,,3.0,4.5,No,,,,,2.0,,,2.0,181
+354,Bar Back,Yes,Always,Young's,Level 4 & Level 5,3,,,3.0,4.5,No,,,,,,2.0,,,181
+355,Bar Back,Yes,Once in a while,,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,,2.0,,,182
+356,KP,Yes,Most of the time,,All Levels,2,,,3.0,4.25,No,,,,,,,1.0,,183
+357,Bar Back,Yes,Try repeats first,EI,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,,2.0,,,183
+358,Waiter / Waitress,Yes,Try repeats first,EI,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,2.0,,,2.0,183
+359,KP,Yes,Most of the time,,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,,,2.0,,184
+360,Host/Hostess,No,Once in a while,,Potentials & L3 & 4 & 5,2,,[Chipotle or Reiss],4.25,4.25,No,,,,,,,,,185
+361,Waiter / Waitress,No,Once in a while,,All Levels,1,20.0,,3.0,4.25,No,,,,,1.0,,,1.0,185
+362,KP,No,Once in a while,,All Levels,1,15.0,,3.0,4.0,Yes if busy,,,,,,,1.0,,185
+363,KP,No,Never,,All Levels,1,20.0,,3.0,4.0,Yes if busy,,,2.0,,,,1.0,,186
+364,Runner,No,Most of the time,,All Levels,1,20.0,,3.0,4.25,Yes if busy,2.0,,,2.0,1.0,,,1.0,186
+365,Other,Yes,Only repeats,,Level 4 & Level 5,5,,,4.25,4.25,No,,,,,,,,,187
+366,Waiter / Waitress,No,Once in a while,,All Levels,1,20.0,,3.0,4.25,No,,,,,1.0,,,1.0,188
+367,Bar Back,Yes,Always,Urban Pubs,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,,2.0,,,189
+368,Bar Back,No,Once in a while,,All Levels,1,,,3.0,4.0,No,,,,,,1.0,,,190
+369,Bar Back,No,Once in a while,,All Levels,1,,,3.0,4.0,No,,,,,,1.0,,,191
+370,Waiter / Waitress,Yes,Always,Young's,Level 4 & Level 5,3,,,3.0,4.5,No,,,,,2.0,,,2.0,192
+371,Bar Back,Yes,Try repeats first,Young's,Level 4 & Level 5,3,,,3.0,4.5,No,,,,,,2.0,,,192
+372,Bar Back,Yes,Always,Urban Pubs,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,,2.0,,,193
+373,KP,Yes,Once in a while,Urban Pubs,All Levels,3,,,3.0,4.25,No,,,,,,,1.0,,193
+374,KP,No,Once in a while,,All Levels,1,15.0,,3.0,4.0,Yes if busy,,,,,,,1.0,,194
+375,Waiter / Waitress,No,Once in a while,,All Levels,1,15.0,,3.0,4.25,Yes if busy,,,,,1.0,,,1.0,194
+376,Waiter / Waitress,No,Most of the time,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,2.0,,,2.0,195
+377,Cloakroom,No,Once in a while,,Potentials & L3 & 4 & 5,2,,[Reiss],4.25,4.25,No,,,,,,,,,195
+378,Runner,No,Most of the time,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,2.0,,,2.0,195
+379,Bar Back,Yes,Try repeats first,EI,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,,2.0,,,196
+380,Runner,Yes,Always,Young's,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,2.0,,,2.0,197
+381,Waiter / Waitress,Yes,Always,Young's,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,2.0,,,2.0,197
+382,KP,Yes,Most of the time,Young's,All Levels,2,,,3.0,4.25,No,,,,,,,1.0,,197
+383,Bar Back,Yes,Always,Urban Pubs,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,,2.0,,,198
+384,KP,Yes,Once in a while,Urban Pubs,All Levels,3,,,3.0,4.25,No,,,,,,,1.0,,198
+385,Runner,Yes,Once in a while,Urban Pubs,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,2.0,,,2.0,198
+386,Bar Back,Yes,Always,EI,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,,2.0,,,199
+387,Runner,Yes,Once in a while,EI,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,2.0,,,2.0,199
+388,KP,No,Once in a while,,All Levels,1,15.0,,3.0,3.5,Yes if busy,,,1.0,,,,,,200
+389,Waiter / Waitress,No,Most of the time,,All Levels,1,20.0,,3.0,4.0,Yes if busy,,,,,1.0,,,1.0,200
+390,Waiter / Waitress,No,Most of the time,,All Levels,1,,,3.0,4.25,Yes if busy,2.0,,,2.0,1.0,,,1.0,201
+391,Stock,Yes,Once in a while,All other retail businesses,Potentials & L3 & 4 & 5,2,,[Reiss],4.0,4.25,No,,,,,,,,,202
+392,Customer Service,Yes,Most of the time,All other retail businesses,Potentials & L3 & 4 & 5,3,,[Reiss],4.25,4.5,No,,,,,,,,,202
+393,Customer Service,Yes,Most of the time,All other retail businesses,Potentials & L3 & 4 & 5,3,,[Reiss],4.25,4.5,No,,,,,,,,,203
+394,Customer Service,Yes,Most of the time,All other retail businesses,Potentials & L3 & 4 & 5,3,,[Reiss],4.25,4.5,No,,,,,,,,,204
+395,Customer Service,Yes,Most of the time,All other retail businesses,Potentials & L3 & 4 & 5,3,,[Reiss],4.25,4.5,No,,,,,,,,,205
+396,Customer Service,Yes,Most of the time,All other retail businesses,Potentials & L3 & 4 & 5,3,,[Reiss],4.25,4.5,No,,,,,,,,,206
+397,Bar Back,No,Once in a while,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,,1.0,,,207
+398,Stock,Yes,Try repeats first,"Logistics, Topshop/Topman, Reiss",Level 4 & Level 5,3,,[Reiss],4.25,4.5,No,,,,,,,,,208
+399,Waiter / Waitress,No,Once in a while,,All Levels,1,10.0,,3.0,4.0,Yes if busy,1.0,,,1.0,,,,,209
+400,Bar Back,No,Once in a while,,All Levels,1,10.0,,3.0,4.0,Yes if busy,,1.0,,,,,,,210
+401,Runner,No,Once in a while,,All Levels,1,10.0,,3.0,4.0,Yes if busy,1.0,,,1.0,,,,,210
+402,Delivery,No,Most of the time,,Level 4 & Level 5,3,,,3.0,4.5,No,,,,,2.0,2.0,,2.0,211
+403,Waiter / Waitress,No,Most of the time,,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,2.0,,,2.0,211
+404,Runner,Yes,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,212
+405,KP,Yes,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,212
+406,Runner,Yes,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,213
+407,KP,Yes,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,213
+408,Runner,Yes,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,214
+409,KP,Yes,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,214
+410,Runner,Yes,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,215
+411,KP,Yes,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,215
+412,Runner,Yes,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,216
+413,Waiter / Waitress,Yes,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,216
+414,Runner,Yes,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,217
+415,KP,Yes,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,217
+416,Runner,Yes,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,218
+417,KP,Yes,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,218
+418,Runner,Yes,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,219
+419,KP,Yes,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,219
+420,Bar Back,Yes,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,219
+421,Runner,Yes,Most of the time,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,1.0,,,1.0,220
+422,Waiter / Waitress,Yes,Most of the time,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,1.0,,,1.0,220
+423,KP,Yes,Once in a while,,Potentials & L3 & 4 & 5,1,,,3.0,4.0,No,,,,,,,1.0,,220
+424,Door Person,Yes,Once in a while,,Potentials & L3 & 4 & 5,1,,,4.25,4.0,Yes if busy,,,,,,,,,220
+425,Bar Back,Yes,Most of the time,,Potentials & L3 & 4 & 5,2,,,3.0,4.25,No,,,,,,1.0,,,220
+426,Waiter / Waitress,No,Most of the time,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,2.0,,,2.0,221
+427,Bar Back,No,Most of the time,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,,2.0,,,221
+428,KP,Yes,Most of the time,,All Levels,2,,,3.0,4.25,No,,,,,,,1.0,,222
+429,Bar Back,Yes,Try repeats first,young's,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,,2.0,,,222
+430,Runner,Yes,Try repeats first,young's,Potentials & L3 & 4 & 5,3,,,3.0,4.5,No,,,,,2.0,,,2.0,222
+431,Waiter / Waitress,No,Once in a while,,All Levels,1,15.0,,3.0,4.25,Yes if busy,,,,,1.0,,,1.0,223
+432,Bar Back,No,Once in a while,,All Levels,1,15.0,,3.0,4.25,Yes if busy,,,,,,1.0,,,223
+433,Bar Back,No,Once in a while,,All Levels,1,15.0,,3.0,4.0,Yes if busy,,1.0,,,,,,,224
+434,KP,Yes,Once in a while,Urban Pubs,All Levels,3,,,3.0,4.25,No,,,,,,,1.0,,225
+435,Bar Back,Yes,Always,Urban Pubs,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,,2.0,,,225
+436,Waiter / Waitress,No,Once in a while,,All Levels,1,15.0,,3.0,4.25,Yes if busy,,,,,1.0,,,1.0,226
+437,KP,No,Once in a while,,All Levels,1,15.0,,3.0,4.0,Yes if busy,,,,,,,1.0,,226
+438,Runner,No,Most of the time,,All Levels,1,20.0,,3.0,4.0,Yes if busy,,,,,1.0,,,1.0,227
+439,Waiter / Waitress,No,Most of the time,,All Levels,1,20.0,,3.0,4.0,Yes if busy,,,,,1.0,,,1.0,227
+440,Bar Back,No,Try repeats first,,Potentials & L3 & 4 & 5,3,,,3.0,4.25,No,,,,,,2.0,,,228
+441,Bar Back,Yes,Once in a while,,Level 1 2 Potentials,0,10.0,,3.0,3.5,Yes,,,,,,,,,229
+442,KP,Yes,Once in a while,,All Levels,1,,,3.0,4.0,Yes if busy,,,1.0,,,,,,230
+443,KP,Yes,Once in a while,,All Levels,1,,,3.0,4.0,Yes if busy,,,1.0,,,,,,231
+444,Waiter / Waitress,Yes,Once in a while,,All Levels,1,20.0,,3.0,4.0,Yes if busy,1.0,,,1.0,,,,,231
